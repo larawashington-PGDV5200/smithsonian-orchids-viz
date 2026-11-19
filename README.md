@@ -25,7 +25,7 @@
   - **Genus bar height:** number of species
     - **Note** the bar heights of Family and Subfamily are hardcoded
   - **Colour:** subfamily
-  - **Grey:** "Other" meaning grouped genera with fewer than 50 specimens
+  - **Grey:** "Other" meaning grouped genera with fewer than 40 specimens
   - **Hover:** shows specimen count, species count and the most common species
 
   ## Method
